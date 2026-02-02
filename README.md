@@ -16,4 +16,5 @@ Instrucciones rápidas para que cualquiera pueda correrlo en su máquina:
 Un ejemplo rápido de cómo se ejecuta el proyecto o qué problema resuelve.
 
 ## 👤 Autor
-* **Jhonn Pether** https://pitxgoras.github.io/Alicord/)
+* **Jhonn Pether** ;)
+
